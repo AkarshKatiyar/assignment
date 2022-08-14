@@ -1,0 +1,19 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color:white;;
+    /* background-size:cover; */
+
+}
+
+ button{
+    margin-top: 2%;
+    color: #000;
+
+ }
+ label{
+    margin-top: 8px;
+ }
+
+    
